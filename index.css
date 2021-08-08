@@ -8,7 +8,7 @@ html {
   scroll-behavior: smooth;
 }
 h1,h2,h3,h4,h5{
-	font-family: 'Libre Baskerville', serif;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 
 #gmap_canvas {
